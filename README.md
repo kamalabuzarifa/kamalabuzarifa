@@ -12,15 +12,15 @@ I build web applications, RESTful APIs, data-driven systems, and intelligent sof
 <img src="https://img.shields.io/badge/GitHub-kamalabuzarifa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kamal-abuzarifa-777887330/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kamalabuzarifa@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://kamalabuzarifa-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
