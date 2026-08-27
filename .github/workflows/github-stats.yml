@@ -1,16 +1,13 @@
 name: Generate GitHub Stats
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
-
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate-stats:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,24 +18,27 @@ jobs:
         run: mkdir -p profile
 
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          github_user: kamalabuzarifa
-          output: profile/stats.svg
+        run: |
+          curl -L \
+            "https://github-readme-stats.vercel.app/api?username=kamalabuzarifa&show_icons=true&include_all_commits=true&hide_border=true" \
+            -o profile/stats.svg
 
       - name: Generate Top Languages
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          github_user: kamalabuzarifa
-          output: profile/top-langs.svg
+        run: |
+          curl -L \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=kamalabuzarifa&layout=compact&hide_border=true" \
+            -o profile/top-langs.svg
 
       - name: Commit generated files
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add profile/stats.svg profile/top-langs.svg
 
-          git diff --cached --quiet || git commit -m "chore: update GitHub statistics"
-
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update GitHub stats"
+            git push
+          fi
