@@ -337,39 +337,17 @@ Git · GitHub · Postman · Figma · VS Code · Docker
 
 <div align="center">
 
-<a href="https://github.com/kamalabuzarifa">
-
 <img
-src="https://github-readme-stats.vercel.app/api?username=kamalabuzarifa&show_icons=true&include_all_commits=true&hide_border=true"
+src="./profile/stats.svg"
 alt="Kamal Abu Zarifa GitHub Statistics"
-width="480"
 />
-
-</a>
 
 <br><br>
 
-<a href="https://github.com/kamalabuzarifa">
-
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalabuzarifa&layout=compact&langs_count=8&hide_border=true"
+src="./profile/top-langs.svg"
 alt="Kamal Abu Zarifa Top Languages"
-width="400"
 />
-
-</a>
-
-<br><br>
-
-<a href="https://github.com/kamalabuzarifa">
-
-<img
-src="https://streak-stats.demolab.com/?user=kamalabuzarifa&hide_border=true"
-alt="Kamal Abu Zarifa GitHub Streak"
-width="600"
-/>
-
-</a>
 
 </div>
 
