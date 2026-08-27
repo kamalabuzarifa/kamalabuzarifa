@@ -1,5 +1,62 @@
-The deployment is currently unavailable
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="360" viewBox="0 0 700 360">
+<rect width="100%" height="100%" rx="12" fill="#ffffff" stroke="#e4e4e4"/>
 
-DEPLOYMENT_PAUSED
+<text x="35" y="50" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#24292f">
+  Top Languages
+</text>
 
-sfo1::4cgwm-1787820971947-a547e3e17939
+
+    <text x="45" y="95" font-family="Arial, sans-serif" font-size="15" fill="#24292f">
+      PHP
+    </text>
+
+    <text x="600" y="95" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#57606a">
+      26.7%
+    </text>
+    
+    <text x="45" y="137" font-family="Arial, sans-serif" font-size="15" fill="#24292f">
+      CSS
+    </text>
+
+    <text x="600" y="137" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#57606a">
+      25.7%
+    </text>
+    
+    <text x="45" y="179" font-family="Arial, sans-serif" font-size="15" fill="#24292f">
+      HTML
+    </text>
+
+    <text x="600" y="179" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#57606a">
+      13.1%
+    </text>
+    
+    <text x="45" y="221" font-family="Arial, sans-serif" font-size="15" fill="#24292f">
+      Blade
+    </text>
+
+    <text x="600" y="221" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#57606a">
+      12.8%
+    </text>
+    
+    <text x="45" y="263" font-family="Arial, sans-serif" font-size="15" fill="#24292f">
+      Jupyter Notebook
+    </text>
+
+    <text x="600" y="263" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#57606a">
+      7.6%
+    </text>
+    
+    <text x="45" y="305" font-family="Arial, sans-serif" font-size="15" fill="#24292f">
+      JavaScript
+    </text>
+
+    <text x="600" y="305" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#57606a">
+      5.3%
+    </text>
+    
+
+<text x="35" y="335" font-family="Arial, sans-serif" font-size="12" fill="#8c959f">
+  Generated from GitHub repository language data
+</text>
+
+</svg>
