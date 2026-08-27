@@ -26,7 +26,7 @@ I build web applications, RESTful APIs, data-driven systems, and intelligent sof
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=kamalabuzarifa&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+<img src="https://www.facebook.com/kamalAbuZarifa2003" alt="facebook Views" />
 
 </div>
 
