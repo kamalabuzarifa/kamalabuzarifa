@@ -24,10 +24,6 @@ I build web applications, RESTful APIs, data-driven systems, and intelligent sof
 <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
-<br><br>
-
-<img src="https://www.facebook.com/kamalAbuZarifa2003" alt="facebook Views" />
-
 </div>
 
 ---
