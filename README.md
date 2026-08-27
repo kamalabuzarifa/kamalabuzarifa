@@ -4,29 +4,29 @@
 
 ### Computer Systems Engineer · Full-Stack Developer · AI & Machine Learning
 
-Building web systems, intelligent applications, and data-driven solutions.
+I build web applications, RESTful APIs, data-driven systems, and intelligent software solutions.
 
 <br>
 
 <a href="https://github.com/kamalabuzarifa">
-<img src="https://img.shields.io/badge/GitHub-kamalabuzarifa-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-kamalabuzarifa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=kamalabuzarifa&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=kamalabuzarifa&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 
 </div>
 
@@ -34,18 +34,21 @@ Building web systems, intelligent applications, and data-driven solutions.
 
 ## About Me
 
-I am a Computer Systems Engineer and Full-Stack Developer focused on building reliable software systems, scalable web applications, and intelligent solutions.
+I am a Computer Systems Engineer and Full-Stack Developer with a focus on software engineering, backend development, artificial intelligence, and machine learning.
 
-My work combines backend engineering, frontend development, RESTful APIs, database design, data analysis, and machine learning.
+I build systems that combine reliable backend architecture, modern frontend development, database design, and intelligent data-driven features.
 
-I enjoy solving real-world problems through software and continuously improving my engineering skills through practical projects.
+My technical experience includes developing RESTful APIs, authentication systems, role-based applications, database-driven platforms, recommendation systems, and machine learning projects.
+
+I am interested in building software that solves practical problems and learning through real-world engineering projects.
 
 ---
 
-## Engineering Focus
+## What I Do
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### Software Engineering
@@ -53,12 +56,13 @@ I enjoy solving real-world problems through software and continuously improving 
 - Full-Stack Web Development
 - Backend Development
 - RESTful API Development
-- Authentication and Authorization
-- Role-Based Access Control
 - Database Design
+- Authentication & Authorization
+- Role-Based Access Control
 - API Integration
 - Application Architecture
-- Git and Version Control
+- Testing & Debugging
+- Git & Version Control
 
 </td>
 
@@ -75,51 +79,53 @@ I enjoy solving real-world problems through software and continuously improving 
 - Model Evaluation
 - Recommendation Systems
 - Healthcare Data Analysis
+- Data Visualization
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# Technology Stack
+# Tech Stack
 
-## Programming Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css,dart" alt="Programming Languages" />
 </p>
 
-## Frameworks & Development
+### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,django,flutter" />
+<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,django,flutter" alt="Frameworks" />
 </p>
 
-## Databases
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,oracle,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,oracle,sqlite" alt="Databases" />
 </p>
 
-## Data Science & Machine Learning
+### Data Science & Machine Learning
 
 <p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 
 </p>
 
-## Tools & Platforms
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" alt="Tools" />
 </p>
 
 ---
@@ -133,26 +139,23 @@ I enjoy solving real-world problems through software and continuously improving 
 
 ## Forsa AI
 
-An intelligent platform designed to help students discover and match with educational opportunities.
+An intelligent educational opportunities platform designed to help students discover, evaluate, and match with suitable academic opportunities.
 
-### Technology
+### Built With
 
-Laravel · React · MySQL · REST API
+`Laravel` `React` `MySQL` `REST API`
 
-### Key Areas
+### Core Features
 
 - Student profiles
 - Opportunity management
 - Eligibility evaluation
-- Matching system
+- Opportunity matching
 - Recommendation system
 - Authentication
 - Role-based access control
 - Admin dashboard
-
-<a href="YOUR_FORSA_REPOSITORY_URL">
-View Repository →
-</a>
+- RESTful API architecture
 
 </td>
 
@@ -160,26 +163,22 @@ View Repository →
 
 ## TheraLife
 
-A hospital management system developed as a university graduation project.
+A hospital management system developed as a university graduation project to support healthcare management workflows.
 
-### Technology
+### Built With
 
-Laravel · MySQL · JavaScript · REST API
+`Laravel` `MySQL` `JavaScript` `REST API`
 
-### Key Areas
+### Core Features
 
-- Hospital management
 - Patient management
+- Hospital management
 - Medical records
 - Database architecture
 - Authentication
-- API development
-- Bilingual interface
 - Role-based workflows
-
-<a href="YOUR_THERALIFE_REPOSITORY_URL">
-View Repository →
-</a>
+- RESTful APIs
+- Bilingual interface
 
 </td>
 
@@ -191,18 +190,18 @@ View Repository →
 
 ## Hospital Readmission Prediction
 
-A machine learning project focused on predicting hospital readmission risk using the Diabetes Readmission Dataset.
+A machine learning project for predicting hospital readmission risk using the Diabetes Readmission Dataset.
 
-### Technology
+### Built With
 
-Python · Pandas · NumPy · Scikit-learn · Matplotlib
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
 
-### Key Areas
+### Core Areas
 
 - Data preprocessing
 - Exploratory data analysis
 - Feature engineering
-- Machine learning
+- Predictive modeling
 - Model evaluation
 - Healthcare analytics
 
@@ -216,24 +215,20 @@ View Repository →
 
 ## Global News Network
 
-A responsive Arabic news platform designed with RTL support and a modern user interface.
+A responsive Arabic news platform designed with RTL support and a component-based frontend architecture.
 
-### Technology
+### Built With
 
-React · JavaScript · HTML · CSS
+`React` `JavaScript` `HTML` `CSS`
 
-### Key Areas
+### Core Features
 
-- Frontend development
-- Responsive design
 - RTL interface
+- Responsive design
 - Component architecture
 - API integration
+- News presentation
 - User interface development
-
-<a href="YOUR_NEWS_REPOSITORY_URL">
-View Repository →
-</a>
 
 </td>
 
@@ -245,24 +240,20 @@ View Repository →
 
 ## Sales Management System
 
-A database-driven system designed to manage sales operations and business data.
+A database-driven application designed to manage sales operations and business data using relational database technologies.
 
-### Technology
+### Built With
 
-Java · Oracle Database · SQL · PL/SQL
+`Java` `Oracle` `SQL` `PL/SQL`
 
-### Key Areas
+### Core Areas
 
-- Database design
+- Relational database design
 - SQL
 - PL/SQL
 - Data management
 - Business workflows
-- Relational database systems
-
-<a href="YOUR_SALES_REPOSITORY_URL">
-View Repository →
-</a>
+- Database operations
 
 </td>
 
@@ -270,7 +261,7 @@ View Repository →
 
 ## More Projects
 
-Explore my GitHub repositories to see additional work across software engineering, web development, databases, and data analysis.
+I work on projects across software engineering, web development, databases, data analysis, and artificial intelligence.
 
 <a href="https://github.com/kamalabuzarifa?tab=repositories">
 View All Repositories →
@@ -289,11 +280,11 @@ View All Repositories →
 
 ### Nasser Medical Hospital
 
-April 2026 — June 2026
+`April 2026 — June 2026`
 
 Worked on software engineering tasks within a healthcare environment.
 
-Key areas included:
+### Areas of Work
 
 - Software development
 - Backend development
@@ -308,9 +299,9 @@ Key areas included:
 
 ## Bachelor of Engineering in Computer Systems Engineering
 
-Al-Azhar University — Gaza
+### Al-Azhar University — Gaza
 
-2021 — 2026
+`2021 — 2026`
 
 **Graduation Average:** 88.19%
 
@@ -318,17 +309,17 @@ Al-Azhar University — Gaza
 
 ---
 
-# Technical Capabilities
+# Technical Skills
 
 ```text
-Backend Development
-PHP · Laravel · Node.js · Django · REST APIs
+Languages
+Java · Python · PHP · JavaScript · Dart · HTML · CSS
 
-Frontend Development
+Backend
+Laravel · Node.js · Django · RESTful APIs
+
+Frontend
 React · Next.js · JavaScript · HTML · CSS
-
-Programming
-Java · Python · PHP · JavaScript · Dart
 
 Databases
 MySQL · Oracle · SQLite · SQL · PL/SQL
@@ -336,35 +327,41 @@ MySQL · Oracle · SQLite · SQL · PL/SQL
 AI & Data
 Machine Learning · Pandas · NumPy · Scikit-learn · Matplotlib
 
-Development Tools
+Tools
 Git · GitHub · Postman · Figma · VS Code · Docker
+```
+
+---
 
 # GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kamalabuzarifa&show_icons=true&hide_border=true&rank_icon=github" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kamalabuzarifa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+  alt="Kamal Abu Zarifa GitHub Statistics"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalabuzarifa&layout=compact&hide_border=true" />
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalabuzarifa&layout=compact&langs_count=8&hide_border=true"
+  alt="Kamal Abu Zarifa Top Languages"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com/?user=kamalabuzarifa&hide_border=true"
+  alt="Kamal Abu Zarifa GitHub Streak"
+/>
 
 </div>
 
----
+--- 
 
-# GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalabuzarifa&hide_border=true" />
-
-</div>
-
----
-
-# Current Focus
-
-I am currently focusing on:
-
+### Current Focus
+I am currently working on expanding my skills in:
 - Full-Stack application development
 - Artificial Intelligence
 - Machine Learning
@@ -372,14 +369,13 @@ I am currently focusing on:
 - RESTful API architecture
 - Database-driven applications
 - Healthcare technology
-- Software engineering practices
+- Data analysis
+- Software architecture
 
 ---
 
-# Engineering Principles
-
-I focus on building software that is:
-
+### Engineering Principles
+I aim to build software that is:
 - Maintainable
 - Structured
 - Testable
@@ -387,12 +383,11 @@ I focus on building software that is:
 - Scalable
 - Easy to understand
 
-I value clean architecture, clear API design, database integrity, reusable components, and continuous improvement.
+I focus on clean architecture, clear API design, database integrity, reusable components, and practical solutions to real-world problems.
 
 ---
 
-# Areas of Interest
-
+### Areas of Interest
 - Software Engineering
 - Full-Stack Development
 - Backend Engineering
@@ -402,35 +397,16 @@ I value clean architecture, clear API design, database integrity, reusable compo
 - Healthcare Technology
 - Intelligent Systems
 - Database Systems
+- Software Architecture
 
 ---
 
-# Let's Connect
+### Let's Connect
+I am interested in opportunities related to:
 
-I am open to opportunities related to:
+Software Engineering · Full-Stack Development · Backend Engineering · Artificial Intelligence · Machine Learning · Data Science
 
-**Software Engineering · Full-Stack Development · Backend Development · Artificial Intelligence · Machine Learning · Data Science**
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
+<br> <div align="center">
+Building software. Solving problems. Growing as an engineer.
 </div>
-
-<br>
-
-<div align="center">
-
-### Building software. Solving problems. Growing as an engineer.
-
-</div>
+<div align="center"> <a href="https://github.com/kamalabuzarifa"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /> </a> </div>
