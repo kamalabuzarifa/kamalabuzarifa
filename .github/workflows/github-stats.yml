@@ -14,17 +14,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create profile directory
-        run: mkdir -p profile
-
       - name: Generate GitHub Stats
         run: |
+          mkdir -p profile
+
           curl -L \
             "https://github-readme-stats.vercel.app/api?username=kamalabuzarifa&show_icons=true&include_all_commits=true&hide_border=true" \
             -o profile/stats.svg
 
-      - name: Generate Top Languages
-        run: |
           curl -L \
             "https://github-readme-stats.vercel.app/api/top-langs/?username=kamalabuzarifa&layout=compact&hide_border=true" \
             -o profile/top-langs.svg
