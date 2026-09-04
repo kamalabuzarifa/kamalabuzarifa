@@ -2,9 +2,9 @@
 
 # Kamal Abu Zarifa
 
-### Computer Systems Engineer · Full-Stack Developer · AI & Machine Learning
+### Computer Systems Engineer · Full-Stack Developer · AI & Data · Cybersecurity
 
-I build web applications, RESTful APIs, data-driven systems, and intelligent software solutions.
+I build software systems, RESTful APIs, data-driven applications, and intelligent solutions with an interest in cybersecurity, information security, and secure digital systems.
 
 <br>
 
@@ -30,13 +30,15 @@ I build web applications, RESTful APIs, data-driven systems, and intelligent sof
 
 ## About Me
 
-I am a Computer Systems Engineer and Full-Stack Developer with a focus on software engineering, backend development, artificial intelligence, and machine learning.
+I am a Computer Systems Engineering graduate from Al-Azhar University – Gaza with practical experience in software engineering, full-stack development, backend systems, databases, data analysis, and artificial intelligence.
 
-I build systems that combine reliable backend architecture, modern frontend development, database design, and intelligent data-driven features.
+I build database-driven applications, RESTful APIs, healthcare systems, e-commerce platforms, and data analysis solutions using technologies such as Laravel, PHP, Python, JavaScript, MySQL, Oracle, Pandas, NumPy, and Scikit-learn.
 
-My technical experience includes developing RESTful APIs, authentication systems, role-based applications, database-driven platforms, recommendation systems, and machine learning projects.
+My academic and practical work has given me experience across software development, data analysis, machine learning, and healthcare technology.
 
-I am interested in building software that solves practical problems and learning through real-world engineering projects.
+I am also developing my knowledge in cybersecurity, information security, secure software development, data protection, and risk management. I am interested in understanding how software systems can be designed to remain reliable and secure while handling real-world data and users.
+
+My long-term interests combine software engineering, artificial intelligence, data, and cybersecurity to build secure and intelligent digital systems.
 
 ---
 
@@ -55,9 +57,12 @@ I am interested in building software that solves practical problems and learning
 - Database Design
 - Authentication & Authorization
 - Role-Based Access Control
+- CRUD Systems
 - API Integration
-- Application Architecture
-- Testing & Debugging
+- System Analysis & Design
+- Application Testing
+- Debugging
+- Software Architecture
 - Git & Version Control
 
 </td>
@@ -68,14 +73,54 @@ I am interested in building software that solves practical problems and learning
 
 - Artificial Intelligence
 - Machine Learning
+- Data Analysis
 - Data Preprocessing
 - Exploratory Data Analysis
+- Statistical Analysis
 - Feature Engineering
+- Classification
 - Predictive Modeling
 - Model Evaluation
-- Recommendation Systems
-- Healthcare Data Analysis
+- Healthcare Analytics
 - Data Visualization
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Cybersecurity
+
+- Cybersecurity Fundamentals
+- Information Security
+- Secure Software Development
+- Data Protection
+- Security Risk Management
+- Application Security
+- Authentication & Authorization
+- Access Control
+- API Security Concepts
+- Secure System Design
+
+</td>
+
+<td width="50%" valign="top">
+
+### Systems & Databases
+
+- Relational Database Design
+- MySQL
+- Oracle Database
+- SQL
+- PL/SQL
+- RESTful Services
+- Database-Driven Applications
+- Healthcare Information Systems
+- System Analysis
+- Technical Documentation
 
 </td>
 
@@ -89,13 +134,13 @@ I am interested in building software that solves practical problems and learning
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css,dart" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=java,python,php,javascript,c,html,css,dart" alt="Programming Languages" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,django,flutter" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,django,flutter" alt="Frameworks and Libraries" />
 </p>
 
 ### Databases
@@ -116,12 +161,26 @@ I am interested in building software that solves practical problems and learning
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+
+</p>
+
+### APIs & Development
+
+<p>
+
+<img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge" alt="RESTful APIs" />
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+
+<img src="https://img.shields.io/badge/CRUD-2F80ED?style=for-the-badge" alt="CRUD" />
+
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" alt="Tools and Platforms" />
 </p>
 
 ---
@@ -135,7 +194,7 @@ I am interested in building software that solves practical problems and learning
 
 ## Forsa AI
 
-An intelligent educational opportunities platform designed to help students discover, evaluate, and match with suitable academic opportunities.
+An intelligent academic opportunities platform designed to help students discover, evaluate, and match with suitable educational opportunities.
 
 ### Built With
 
@@ -144,6 +203,7 @@ An intelligent educational opportunities platform designed to help students disc
 ### Core Features
 
 - Student profiles
+- Academic records
 - Opportunity management
 - Eligibility evaluation
 - Opportunity matching
@@ -152,6 +212,11 @@ An intelligent educational opportunities platform designed to help students disc
 - Role-based access control
 - Admin dashboard
 - RESTful API architecture
+- Database-driven workflows
+
+### Areas
+
+`Software Engineering` `AI` `Recommendation Systems` `REST APIs`
 
 </td>
 
@@ -159,22 +224,28 @@ An intelligent educational opportunities platform designed to help students disc
 
 ## TheraLife
 
-A hospital management system developed as a university graduation project to support healthcare management workflows.
+A smart hospital management system developed as a university graduation project to support healthcare management workflows.
 
 ### Built With
 
-`Laravel` `MySQL` `JavaScript` `REST API`
+`Laravel 12` `MySQL` `JavaScript` `HTML5` `CSS3`
 
 ### Core Features
 
 - Patient management
-- Hospital management
+- Appointments
 - Medical records
+- Healthcare workflows
 - Database architecture
 - Authentication
 - Role-based workflows
 - RESTful APIs
 - Bilingual interface
+- Responsive interface
+
+### Areas
+
+`Software Engineering` `Healthcare Technology` `Database Systems`
 
 </td>
 
@@ -186,20 +257,23 @@ A hospital management system developed as a university graduation project to sup
 
 ## Hospital Readmission Prediction
 
-A machine learning project for predicting hospital readmission risk using the Diabetes Readmission Dataset.
+A machine learning and data analysis project using the Diabetes Readmission Dataset to study factors associated with hospital readmission.
 
 ### Built With
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
 ### Core Areas
 
 - Data preprocessing
 - Exploratory data analysis
-- Feature engineering
+- Statistical analysis
+- Feature preparation
+- Class imbalance analysis
+- Machine learning fundamentals
 - Predictive modeling
-- Model evaluation
 - Healthcare analytics
+- Data visualization
 
 <a href="https://github.com/kamalabuzarifa/hospital-readmission">
 View Repository →
@@ -209,9 +283,40 @@ View Repository →
 
 <td width="50%" valign="top">
 
+## ArabCart E-Commerce Platform
+
+A full-stack e-commerce platform developed to manage products, customers, shopping carts, and orders.
+
+### Built With
+
+`Laravel` `MySQL` `HTML` `CSS` `JavaScript`
+
+### Core Features
+
+- Product management
+- Customer management
+- Shopping cart
+- Order management
+- Backend development
+- Database design
+- CRUD operations
+- Responsive interfaces
+
+### Areas
+
+`Full-Stack Development` `Backend Development` `Database Systems`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ## Global News Network
 
-A responsive Arabic news platform designed with RTL support and a component-based frontend architecture.
+A responsive news platform developed with a focus on frontend development, API integration, and RTL user interfaces.
 
 ### Built With
 
@@ -224,19 +329,19 @@ A responsive Arabic news platform designed with RTL support and a component-base
 - Component architecture
 - API integration
 - News presentation
-- User interface development
+- Frontend development
+
+### Areas
+
+`Frontend Development` `React` `API Integration`
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
 ## Sales Management System
 
-A database-driven application designed to manage sales operations and business data using relational database technologies.
+A database-driven application designed to manage sales operations and business data using Oracle Database technologies.
 
 ### Built With
 
@@ -253,18 +358,6 @@ A database-driven application designed to manage sales operations and business d
 
 </td>
 
-<td width="50%" valign="top">
-
-## More Projects
-
-I work on projects across software engineering, web development, databases, data analysis, and artificial intelligence.
-
-<a href="https://github.com/kamalabuzarifa?tab=repositories">
-View All Repositories →
-</a>
-
-</td>
-
 </tr>
 </table>
 
@@ -278,16 +371,21 @@ View All Repositories →
 
 `April 2026 — June 2026`
 
-Worked on software engineering tasks within a healthcare environment.
+Completed practical training in software engineering within a healthcare environment.
 
 ### Areas of Work
 
-- Software development
-- Backend development
-- Database systems
-- Application testing
-- Debugging
-- Software engineering practices
+- Monitoring internal hospital systems
+- Database management
+- Data updates
+- System testing
+- Issue tracking
+- Technical support
+- Troubleshooting
+- Workflow improvement
+- Technical documentation
+
+This experience strengthened my understanding of software systems operating in healthcare environments and the importance of reliable information systems.
 
 ---
 
@@ -297,105 +395,76 @@ Worked on software engineering tasks within a healthcare environment.
 
 ### Al-Azhar University — Gaza
 
-`2021 — 2026`
+`September 2021 — June 2026`
 
-**Graduation Average:** 88.19%
+**Cumulative Average:** 88.19%
 
 **Graduation Rating:** Very Good with Second Honor Degree
+
+### Academic Areas
+
+- Software Engineering
+- Computer Systems
+- Database Systems
+- Web Development
+- Artificial Intelligence
+- Machine Learning
+- Data Analysis
+- Healthcare Technology
+- System Analysis & Design
+
+---
+
+# Courses
+
+### Java Developer Training
+
+`50 Hours`
+
+Arab Training Agency for Artificial Intelligence
+
+### Programming Course in C
+
+`40 Hours`
+
+Academy for Training and Development in cooperation with Edu-VistA Center
+
+### Introduction to MS Excel
+
+`30 Hours`
+
+Microsoft
 
 ---
 
 # Technical Skills
 
 ```text
-Languages
-Java · Python · PHP · JavaScript · Dart · HTML · CSS
+Programming
+Java · Python · PHP · JavaScript · C · SQL · Dart
 
 Backend
 Laravel · Node.js · Django · RESTful APIs
 
 Frontend
-React · Next.js · JavaScript · HTML · CSS
+React · Next.js · JavaScript · HTML5 · CSS3
 
 Databases
 MySQL · Oracle · SQLite · SQL · PL/SQL
 
 AI & Data
-Machine Learning · Pandas · NumPy · Scikit-learn · Matplotlib
+Artificial Intelligence · Machine Learning · Pandas · NumPy
+Scikit-learn · Matplotlib · Seaborn · EDA · Statistical Analysis
+
+Cybersecurity
+Cybersecurity Fundamentals · Information Security
+Secure Software Development · Data Protection
+Authentication · Authorization · Access Control
+Security Risk Management Concepts
+
+Engineering
+Database Design · System Analysis & Design
+Software Engineering · API Design · CRUD Systems
 
 Tools
-Git · GitHub · Postman · Figma · VS Code · Docker
-```
-
----
-
-# GitHub Statistics
-
-<div align="center">
-
-<img
-src="./profile/stats.svg"
-alt="Kamal Abu Zarifa GitHub Statistics"
-/>
-
-<br><br>
-
-<img
-src="./profile/top-langs.svg"
-alt="Kamal Abu Zarifa Top Languages"
-/>
-
-</div>
-
---- 
-
-### Current Focus
-I am currently working on expanding my skills in:
-- Full-Stack application development
-- Artificial Intelligence
-- Machine Learning
-- Intelligent recommendation systems
-- RESTful API architecture
-- Database-driven applications
-- Healthcare technology
-- Data analysis
-- Software architecture
-
----
-
-### Engineering Principles
-I aim to build software that is:
-- Maintainable
-- Structured
-- Testable
-- Secure
-- Scalable
-- Easy to understand
-
-I focus on clean architecture, clear API design, database integrity, reusable components, and practical solutions to real-world problems.
-
----
-
-### Areas of Interest
-- Software Engineering
-- Full-Stack Development
-- Backend Engineering
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Healthcare Technology
-- Intelligent Systems
-- Database Systems
-- Software Architecture
-
----
-
-### Let's Connect
-I am interested in opportunities related to:
-
-Software Engineering · Full-Stack Development · Backend Engineering · Artificial Intelligence · Machine Learning · Data Science
-
-<br> <div align="center">
-Building software. Solving problems. Growing as an engineer.
-</div>
-<div align="center"> <a href="https://github.com/kamalabuzarifa"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /> </a> </div>
+Git · GitHub · Postman · Visual Studio Code · Figma · XAMPP
