@@ -1,27 +1,29 @@
+
 <div align="center">
 
 # Kamal Abu Zarifa
 
-### Computer Systems Engineer · Full-Stack Developer · AI & Data · Cybersecurity
+### Computer Systems Engineer | Software Engineering | AI & Data Science
 
-I build software systems, RESTful APIs, data-driven applications, and intelligent solutions with an interest in cybersecurity, information security, and secure digital systems.
+Computer Systems Engineering Graduate from Al-Azhar University – Gaza.
+
+Interested in building software systems, developing data-driven applications, and applying computing technologies to real-world problems.
+
+My academic and practical interests include Software Engineering, Artificial Intelligence, Machine Learning, Data Science, Data Analytics, Database Systems, and Cybersecurity.
 
 <br>
 
 <a href="https://github.com/kamalabuzarifa">
-<img src="https://img.shields.io/badge/GitHub-kamalabuzarifa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/kamal-abuzarifa-777887330/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:kamalabuzarifa@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://kamalabuzarifa-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
@@ -30,441 +32,380 @@ I build software systems, RESTful APIs, data-driven applications, and intelligen
 
 ## About Me
 
-I am a Computer Systems Engineering graduate from Al-Azhar University – Gaza with practical experience in software engineering, full-stack development, backend systems, databases, data analysis, and artificial intelligence.
+I am a Computer Systems Engineering graduate from Al-Azhar University – Gaza, with an academic background in computing, software development, databases, and information systems.
 
-I build database-driven applications, RESTful APIs, healthcare systems, e-commerce platforms, and data analysis solutions using technologies such as Laravel, PHP, Python, JavaScript, MySQL, Oracle, Pandas, NumPy, and Scikit-learn.
+My practical experience includes developing database-driven web applications, backend systems, RESTful APIs, and healthcare management solutions using Laravel, PHP, JavaScript, and MySQL.
 
-My academic and practical work has given me experience across software development, data analysis, machine learning, and healthcare technology.
+I have also worked on data analysis projects using Python, Pandas, NumPy, and Scikit-learn, exploring how data can support analysis and decision-making in healthcare and other domains.
 
-I am also developing my knowledge in cybersecurity, information security, secure software development, data protection, and risk management. I am interested in understanding how software systems can be designed to remain reliable and secure while handling real-world data and users.
+My academic interests extend to:
 
-My long-term interests combine software engineering, artificial intelligence, data, and cybersecurity to build secure and intelligent digital systems.
+- Artificial Intelligence and Machine Learning
+- Data Science and Data Analytics
+- Software Engineering and Computer Science
+- Information Systems and Database Technologies
+- Cybersecurity and Information Security
+- Healthcare Informatics and Intelligent Systems
+
+I am interested in pursuing graduate studies and professional opportunities that allow me to expand my knowledge, develop research skills, and contribute to practical technology solutions.
 
 ---
 
-## What I Do
+## Academic & Technical Interests
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### Software Engineering
+### Artificial Intelligence & Data Science
 
-- Full-Stack Web Development
-- Backend Development
-- RESTful API Development
-- Database Design
-- Authentication & Authorization
-- Role-Based Access Control
-- CRUD Systems
-- API Integration
-- System Analysis & Design
-- Application Testing
-- Debugging
-- Software Architecture
-- Git & Version Control
-
-</td>
-
-<td width="50%" valign="top">
-
-### AI & Data
-
-- Artificial Intelligence
-- Machine Learning
-- Data Analysis
-- Data Preprocessing
+- Artificial Intelligence Fundamentals
+- Machine Learning Fundamentals
+- Data Science
+- Data Analytics
 - Exploratory Data Analysis
 - Statistical Analysis
-- Feature Engineering
-- Classification
-- Predictive Modeling
-- Model Evaluation
-- Healthcare Analytics
+- Data Preprocessing
+- Predictive Modeling Concepts
+- Healthcare Data Analytics
 - Data Visualization
 
 </td>
-
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
-### Cybersecurity
+### Software Engineering & Computer Science
 
-- Cybersecurity Fundamentals
-- Information Security
-- Secure Software Development
-- Data Protection
-- Security Risk Management
-- Application Security
+- Software Development
+- Full-Stack Development
+- Backend Engineering
+- RESTful API Development
+- Database Design
+- System Analysis & Design
+- Software Architecture Concepts
+- Application Testing
 - Authentication & Authorization
-- Access Control
-- API Security Concepts
-- Secure System Design
+- Software Documentation
 
 </td>
-
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### Systems & Databases
+### Information Systems & Databases
 
+- Database Management Systems
 - Relational Database Design
+- SQL & PL/SQL
 - MySQL
 - Oracle Database
-- SQL
-- PL/SQL
-- RESTful Services
-- Database-Driven Applications
 - Healthcare Information Systems
-- System Analysis
-- Technical Documentation
+- Information Management
+- Business Applications
+- Data-Driven Systems
 
 </td>
+<td width="50%" valign="top">
 
+### Cybersecurity & Information Security
+
+- Cybersecurity Fundamentals
+- Information Security Concepts
+- Secure Software Development
+- Application Security Concepts
+- Authentication & Access Control
+- Data Protection
+- Security Risk Management Concepts
+
+</td>
 </tr>
 </table>
 
 ---
 
-# Tech Stack
+## Technical Skills
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,php,javascript,c,html,css,dart" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=java,python,php,javascript,c,html,css,dart" />
 </p>
 
-### Frameworks & Libraries
+### Frameworks & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,django,flutter" alt="Frameworks and Libraries" />
+<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,django,flutter" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,oracle,sqlite" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### Data Science & Machine Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-
-</p>
-
-### APIs & Development
-
-<p>
-
-<img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge" alt="RESTful APIs" />
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-
-<img src="https://img.shields.io/badge/CRUD-2F80ED?style=for-the-badge" alt="CRUD" />
-
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" alt="Tools and Platforms" />
-</p>
-
----
-
-# Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## Forsa AI
-
-An intelligent academic opportunities platform designed to help students discover, evaluate, and match with suitable educational opportunities.
-
-### Built With
-
-`Laravel` `React` `MySQL` `REST API`
-
-### Core Features
-
-- Student profiles
-- Academic records
-- Opportunity management
-- Eligibility evaluation
-- Opportunity matching
-- Recommendation system
-- Authentication
-- Role-based access control
-- Admin dashboard
-- RESTful API architecture
-- Database-driven workflows
-
-### Areas
-
-`Software Engineering` `AI` `Recommendation Systems` `REST APIs`
-
-</td>
-
-<td width="50%" valign="top">
-
-## TheraLife
-
-A smart hospital management system developed as a university graduation project to support healthcare management workflows.
-
-### Built With
-
-`Laravel 12` `MySQL` `JavaScript` `HTML5` `CSS3`
-
-### Core Features
-
-- Patient management
-- Appointments
-- Medical records
-- Healthcare workflows
-- Database architecture
-- Authentication
-- Role-based workflows
-- RESTful APIs
-- Bilingual interface
-- Responsive interface
-
-### Areas
-
-`Software Engineering` `Healthcare Technology` `Database Systems`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## Hospital Readmission Prediction
-
-A machine learning and data analysis project using the Diabetes Readmission Dataset to study factors associated with hospital readmission.
-
-### Built With
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
-
-### Core Areas
-
-- Data preprocessing
-- Exploratory data analysis
-- Statistical analysis
-- Feature preparation
-- Class imbalance analysis
-- Machine learning fundamentals
-- Predictive modeling
-- Healthcare analytics
-- Data visualization
-
-<a href="https://github.com/kamalabuzarifa/hospital-readmission">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## ArabCart E-Commerce Platform
-
-A full-stack e-commerce platform developed to manage products, customers, shopping carts, and orders.
-
-### Built With
-
-`Laravel` `MySQL` `HTML` `CSS` `JavaScript`
-
-### Core Features
-
-- Product management
-- Customer management
-- Shopping cart
-- Order management
-- Backend development
-- Database design
-- CRUD operations
-- Responsive interfaces
-
-### Areas
-
-`Full-Stack Development` `Backend Development` `Database Systems`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## Global News Network
-
-A responsive news platform developed with a focus on frontend development, API integration, and RTL user interfaces.
-
-### Built With
-
-`React` `JavaScript` `HTML` `CSS`
-
-### Core Features
-
-- RTL interface
-- Responsive design
-- Component architecture
-- API integration
-- News presentation
-- Frontend development
-
-### Areas
-
-`Frontend Development` `React` `API Integration`
-
-</td>
-
-<td width="50%" valign="top">
-
-## Sales Management System
-
-A database-driven application designed to manage sales operations and business data using Oracle Database technologies.
-
-### Built With
-
-`Java` `Oracle` `SQL` `PL/SQL`
-
-### Core Areas
-
-- Relational database design
+- Oracle Database
 - SQL
 - PL/SQL
-- Data management
-- Business workflows
+
+### Data Analysis & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" />
+</p>
+
+---
+
+## Featured Projects
+
+### 1. Forsa AI – Academic Opportunities Platform
+
+An academic opportunities platform designed to help students discover and evaluate educational opportunities based on their academic profiles and eligibility.
+
+**Technologies:** Laravel, React, MySQL, RESTful APIs
+
+**Key Areas:**
+- Backend development
+- Database design
+- RESTful API architecture
+- User and academic profile management
+- Opportunity management
+- Eligibility evaluation
+- Recommendation system concepts
+- Role-based access control
+
+**Fields:** Software Engineering, AI Applications, Information Systems.
+
+---
+
+### 2. TheraLife – Hospital Management System
+
+A hospital management system developed as my university graduation project. I led the project and contributed to its development and documentation.
+
+**Technologies:** Laravel 12, PHP, MySQL, JavaScript, HTML, CSS.
+
+**Key Features:**
+- Patient management
+- Appointment management
+- Medical records
+- Doctor and pharmacy workflows
+- Reception management
+- Role-based access control
+- Arabic and English interfaces
+- Dark and light modes
+- Responsive design
+
+**Academic Achievement:** Graduation project grade: 98%.
+
+**Fields:** Software Engineering, Database Systems, Healthcare Informatics.
+
+---
+
+### 3. Hospital Readmission Data Analysis
+
+A healthcare data analysis project using the Diabetes Readmission Dataset to explore patient characteristics and factors associated with hospital readmission.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+
+**Key Areas:**
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Descriptive statistical analysis
+- Data visualization
+- Healthcare data exploration
+- Interpretation of analytical findings
+
+**Note:** This project focused on exploratory and descriptive statistical analysis, not the development or training of a predictive machine learning model.
+
+**Fields:** Data Analytics, Data Science, Healthcare Analytics.
+
+[View Project Repository](https://github.com/kamalabuzarifa/hospital-readmission)
+
+---
+
+### 4. ArabCart – E-Commerce Platform
+
+A web-based e-commerce application developed to manage products, customers, shopping carts, and orders.
+
+**Technologies:** Laravel, MySQL, HTML, CSS, JavaScript.
+
+**Key Areas:**
+- Backend development
+- Database management
+- Product and order management
+- CRUD operations
+- E-commerce workflows
+
+**Fields:** Software Engineering, Web Development, Information Systems.
+
+---
+
+### 5. Global News Network
+
+A responsive news platform focusing on frontend development, API integration, and multilingual interface considerations.
+
+**Technologies:** React, JavaScript, HTML, CSS.
+
+**Key Areas:**
+- Component-based development
+- Responsive interfaces
+- API integration
+- RTL interface development
+
+**Fields:** Frontend Engineering, Web Development.
+
+---
+
+### 6. Sales Management System
+
+A database-driven application developed to manage sales operations and business data.
+
+**Technologies:** Java, Oracle Database, SQL, PL/SQL.
+
+**Key Areas:**
+- Relational database design
+- SQL queries
+- PL/SQL
+- Business data management
 - Database operations
 
-</td>
-
-</tr>
-</table>
+**Fields:** Database Systems, Software Engineering, Information Systems.
 
 ---
 
-# Professional Experience
+## Education
 
-## Software Engineering Trainee
+### Bachelor of Engineering in Computer Systems Engineering
 
-### Nasser Medical Hospital
+**Al-Azhar University – Gaza**
 
-`April 2026 — June 2026`
+September 2021 – June 2026
 
-Completed practical training in software engineering within a healthcare environment.
+- Cumulative Average: 88.19%
+- Graduation Classification: Very Good
+- Second Honor Degree
+- 162 Academic Credits Completed
 
-### Areas of Work
+**Relevant Academic Areas:**
 
-- Monitoring internal hospital systems
-- Database management
-- Data updates
-- System testing
-- Issue tracking
-- Technical support
-- Troubleshooting
-- Workflow improvement
-- Technical documentation
-
-This experience strengthened my understanding of software systems operating in healthcare environments and the importance of reliable information systems.
-
----
-
-# Education
-
-## Bachelor of Engineering in Computer Systems Engineering
-
-### Al-Azhar University — Gaza
-
-`September 2021 — June 2026`
-
-**Cumulative Average:** 88.19%
-
-**Graduation Rating:** Very Good with Second Honor Degree
-
-### Academic Areas
-
+- Computer Science Fundamentals
 - Software Engineering
-- Computer Systems
+- Programming
 - Database Systems
-- Web Development
+- Computer Networks
 - Artificial Intelligence
-- Machine Learning
 - Data Analysis
-- Healthcare Technology
-- System Analysis & Design
+- Information Systems
+- System Analysis and Design
 
 ---
 
-# Courses
+## Professional Experience
+
+### Software Engineering Trainee
+
+**Nasser Medical Complex – Gaza**
+
+April 2026 – June 2026
+
+Practical training in a healthcare information technology environment.
+
+- Healthcare information system testing and evaluation
+- Data correction and updates
+- Database-related tasks
+- IT and network support
+- Technical troubleshooting
+- Understanding healthcare information workflows
+
+### Web Development Trainee
+
+**University College of Applied Sciences (UCAS) – Gaza**
+
+November 2026 – Present
+
+Participation in practical web development training through the Khota program.
+
+### Engineering Training Participant
+
+**Palestinian Engineers Association – Khan Younis Branch**
+
+October 2026 – November 2026
+
+Participation in engineering and software development training activities, including discussions on application development, software engineering, and system integration.
+
+---
+
+## Professional Development & Certifications
+
+### Google Data Analytics Professional Certificate – Selected Courses
+
+- Foundations: Data, Data, Everywhere
+- Ask Questions to Make Data-Driven Decisions
+- Prepare Data for Exploration
+- Process Data from Dirty to Clean
+
+**Platform:** Coursera
+
+### Data Analysis Training
+
+**Avatar – 40 Hours**
+
+### UI/UX Design Training
+
+**Avatar – 40 Hours**
+
+### Front-End Web Development Bootcamp
+
+**YouAccel / Udemy – 17.5 Hours**
 
 ### Java Developer Training
 
-`50 Hours`
+**Arab Training Agency – Approximately 50 Hours**
 
-Arab Training Agency for Artificial Intelligence
+### C Programming
 
-### Programming Course in C
+**Edu-Vista – 40 Hours**
 
-`40 Hours`
+### Microsoft Excel
 
-Academy for Training and Development in cooperation with Edu-VistA Center
-
-### Introduction to MS Excel
-
-`30 Hours`
-
-Microsoft
+**30 Hours**
 
 ---
 
-# Technical Skills
+## Research & Graduate Study Interests
 
-```text
-Programming
-Java · Python · PHP · JavaScript · C · SQL · Dart
+I am interested in graduate programs and research opportunities in the following areas:
 
-Backend
-Laravel · Node.js · Django · RESTful APIs
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Data Analytics
+- Computer Science
+- Software Engineering
+- Information Systems
+- Database Technologies
+- Cybersecurity
+- Healthcare Informatics
 
-Frontend
-React · Next.js · JavaScript · HTML5 · CSS3
+I am particularly interested in applying computing, data analysis, and intelligent technologies to practical challenges in healthcare, education, and institutional systems.
 
-Databases
-MySQL · Oracle · SQLite · SQL · PL/SQL
+---
 
-AI & Data
-Artificial Intelligence · Machine Learning · Pandas · NumPy
-Scikit-learn · Matplotlib · Seaborn · EDA · Statistical Analysis
+## Contact
 
-Cybersecurity
-Cybersecurity Fundamentals · Information Security
-Secure Software Development · Data Protection
-Authentication · Authorization · Access Control
-Security Risk Management Concepts
+I welcome academic collaborations, research opportunities, graduate study opportunities, and software engineering positions.
 
-Engineering
-Database Design · System Analysis & Design
-Software Engineering · API Design · CRUD Systems
+- **GitHub:** [github.com/kamalabuzarifa](https://github.com/kamalabuzarifa)
+- **LinkedIn:** [linkedin.com/in/kamal-abuzarifa-777887330](https://www.linkedin.com/in/kamal-abuzarifa-777887330/)
+- **Email:** kamalabuzarifa@gmail.com
+- **Portfolio:** [kamalabuzarifa-portfolio.vercel.app](https://kamalabuzarifa-portfolio.vercel.app/)
 
-Tools
-Git · GitHub · Postman · Visual Studio Code · Figma · XAMPP
+</div>
